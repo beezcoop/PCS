@@ -1,0 +1,50 @@
+name = TopHit
+description = The next generation responsive corporate Drupal theme by More than (just) Themes.
+version = 2.4.0
+core = 7.x
+
+stylesheets[all][] = skeleton.css
+stylesheets[all][] = js/flexslider/flexslider.css
+stylesheets[all][] = style.css
+
+regions[header_top] = Header top
+regions[header] = Header
+regions[header_right] = Header right
+regions[navigation] = Navigation
+regions[banner] = Banner
+regions[highlighted] = Highlighted
+regions[promoted] = Promoted area
+regions[custom_front_area] = Custom front area
+regions[content] = Content
+regions[sidebar_first] = First sidebar
+regions[footer_first] = Footer first
+regions[footer_second] = Footer second
+regions[footer_third] = Footer third
+regions[footer] = Footer
+regions[help] = Help
+regions[page_top] = Page top
+regions[page_bottom] = Page bottom
+
+scripts[] = js/flexslider/jquery.flexslider.js
+
+settings[breadcrumb_display]= 1
+settings[scrolltop_display]= 1
+settings[color_scheme]= 'default'
+settings[sitename_font_family]= 'sff-2'
+settings[slogan_font_family]= 'slff-3'
+settings[headings_font_family]= 'hff-10'
+settings[footer_headings_font_family]= 'hoff-10'
+settings[paragraph_font_family]= 'pff-2'
+settings[slideshow_font_family]= 'sdff-10'
+settings[slideshow_effect]='fade'
+settings[slideshow_effect_time]='6'
+settings[slideshow_effect_direction]='horizontal'
+settings[slideshow_fontsize]='30'
+settings[frontpage_emulate]= 0
+settings[frontpage_content_print]= 0
+settings[responsive_menu_state]= 1
+settings[responsive_menu_switchwidth]='980'
+settings[responsive_menu_topoptiontext]= 'Select a page'
+settings[responsive_menu_optgroups]= 1
+settings[responsive_menu_nested]= 1
+settings[banner_background]= 1

@@ -1,0 +1,131 @@
+body { border-top: 3px solid #ed008c; }
+
+/* Links */
+a, a.active, li a.active { color: #ed008c; }
+
+.block #twtr-widget-1 .twtr-tweet a { color:#ed008c !important; }
+
+a:hover { color: #f06eaa; }
+
+/* Headings */
+h1.title { color: #ed008c; }
+
+#sidebar h2 { color: #ed008c; }
+
+/* Menus */
+#subfooter ul.menu li, div.links ul li, #header ul.menu li { border-right:1px solid #ed008c; }
+
+/* Header */
+#header { border-top: 1px solid #ed008c; }
+
+/* Search block */
+#block-search-form .container-inline:hover { border-color: #ed008c; }
+
+#block-search-form input.form-text { color: #ed008c; }
+
+/* Main navigation */
+#main-navigation ul li a:active, #main-navigation ul li a:hover { color: #ed008c; }
+
+/* Superfish support */
+#main-navigation .block-superfish ul li a.menuparent, #main-navigation .block-superfish ul li span { background-image: url("images/pink/main-menu-expanded.png"); }
+
+#main-navigation .block-superfish ul.menu ul { background-color: #f06eaa; 
+-moz-box-shadow: inset 0 10px 10px 0 #eb5996; -webkit-box-shadow: inset 0 10px 10px 0 #eb5996; 
+-o-box-shadow: inset 0 10px 10px 0 #eb5996; box-shadow: inset 0 10px 10px 0 #eb5996; }
+
+#main-navigation .block-superfish ul.menu ul li:hover, #main-navigation .block-superfish ul.menu ul li.menuparent.sfHover { background-color: #ed008c; }
+
+/* Views - Submit buttons */
+.view-promoted-posts .views-field-view-node a, input[type="submit"], input[type="reset"], input[type="button"],
+.checkout-buttons .checkout-cancel, .checkout-buttons .checkout-back,
+li.line-item-summary-view-cart a, li.line-item-summary-checkout a { background-color: #ed008c; }
+
+.view-promoted-posts .views-row .views-field-view-node a:hover,
+input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hover,
+.checkout-buttons .checkout-cancel:focus, .checkout-buttons .checkout-back:focus, .checkout-buttons .checkout-cancel:hover, .checkout-buttons .checkout-back:hover,
+li.line-item-summary-view-cart a:hover, li.line-item-summary-checkout a:hover { background-color: #f06eaa; }
+
+.view-latest-products .views-field-title { color: #ed008c; }
+
+/* Tables */
+table th { background:#ed008c; border-color: #ed008c; }
+
+/* Node */
+.field-type-taxonomy-term-reference { background-image: url("images/pink/tag.png"); }
+
+.author-title { border-bottom: 1px solid #ed008c; }
+
+#comments h2.title { background-image: url("images/pink/comment-title.png"); }
+
+.poll .bar .foreground { background-color: #ed008c; }
+
+/* Team members */
+.team-member h2 { color: #ed008c; }
+
+.team-member-email a { background-image: url("images/pink/member-email.png"); }
+
+/* Forms */
+label { color: #ed008c; }
+
+input.form-text:focus { border: 1px solid #ed008c; }
+
+/* Footer */
+#footer h2 { color: #ed008c; }
+
+.footer-area a.more { color: #ed008c; }
+
+.footer-area a.more:hover { color: #f06eaa; }
+
+#footer ul.menu li a.active, #sidebar ul.menu li a.active { color: #ed008c; }
+
+/* Scroll to top */
+#toTop { background-color: #ed008c }
+
+#toTop:hover { background-color: #f06eaa }
+
+/* Flexslider */
+.flex-direction-nav li a.next { background-color: #ed008c; }
+
+.flex-direction-nav li a.prev { background-color: #ed008c; }
+
+.flex-direction-nav li a:hover { background-color: #f06eaa; }
+
+.flex-control-nav li a.active { border: 1px solid #ed008c; background: #ed008c; }
+
+.flex-control-nav li a:hover { border: 1px solid #ed008c; }
+
+/* Social-bookmarks */
+ul.social-bookmarks li.facebook a:hover { background-image: url("images/pink/facebook-hover.png"); }
+
+ul.social-bookmarks li.twitter a:hover { background-image: url("images/pink/twitter-hover.png"); }
+
+ul.social-bookmarks li.flickr a:hover { background-image: url("images/pink/flickr-hover.png"); }
+
+ul.social-bookmarks li.youtube a:hover { background-image: url("images/pink/youtube-hover.png"); }
+
+ul.social-bookmarks li.linkedin a:hover { background-image: url("images/pink/linkedin-hover.png"); }
+
+ul.social-bookmarks li.tumblr a:hover { background-image: url("images/pink/tumblr-hover.png"); }
+
+ul.social-bookmarks li.pinterest a:hover { background-image: url("images/pink/pinterest-hover.png"); }
+
+ul.social-bookmarks li.googleplus a:hover { background-image: url("images/pink/googleplus-hover.png"); }
+
+.preload-social-bookmarks .facebook { background-image: url("images/pink/facebook-hover.png"); }
+
+.preload-social-bookmarks .twitter { background-image: url("images/pink/twitter-hover.png"); }
+
+.preload-social-bookmarks .flickr { background-image: url("images/pink/flickr-hover.png"); }
+
+.preload-social-bookmarks .youtube { background-image: url("images/pink/youtube-hover.png"); }
+
+.preload-social-bookmarks .linkedin { background-image: url("images/pink/linkedin-hover.png"); }
+
+.preload-social-bookmarks .tumblr { background-image: url("images/pink/tumblr-hover.png"); }
+
+.preload-social-bookmarks .pinterest { background-image: url("images/pink/pinterest-hover.png"); }
+
+.preload-social-bookmarks .googleplus { background-image: url("images/pink/googleplus-hover.png"); }
+
+/* Drupal Commerce */
+.view-promoted-posts .views-field-commerce-price, .node .field-name-commerce-price { color:#ed008c; }

@@ -1,0 +1,131 @@
+body { border-top: 3px solid #328dbc; }
+
+/* Links */
+a, a.active, li a.active { color: #328dbc; }
+
+.block #twtr-widget-1 .twtr-tweet a { color:#328dbc !important; }
+
+a:hover { color: #01ADED; }
+
+/* Headings */
+h1.title { color: #328dbc; }
+
+#sidebar h2 { color: #328dbc; }
+
+/* Menus */
+#subfooter ul.menu li, div.links ul li, #header ul.menu li { border-right:1px solid #328dbc; }
+
+/* Header */
+#header { border-top: 1px solid #328dbc; }
+
+/* Search block */
+#block-search-form .container-inline:hover { border-color: #328dbc; }
+
+#block-search-form input.form-text { color: #328dbc; }
+
+/* Main navigation */
+#main-navigation ul li a:active, #main-navigation ul li a:hover { color: #328dbc; }
+
+/* Superfish support */
+#main-navigation .block-superfish ul li a.menuparent, #main-navigation .block-superfish ul li span { background-image: url("images/blue/main-menu-expanded.png"); }
+
+#main-navigation .block-superfish ul ul { background-color: #01ADED; 
+-moz-box-shadow: inset 0 10px 10px 0 #019be8; -webkit-box-shadow: inset 0 10px 10px 0 #019be8; 
+-o-box-shadow: inset 0 10px 10px 0 #019be8; box-shadow: inset 0 10px 10px 0 #019be8; }
+
+#main-navigation .block-superfish ul ul li:hover, #main-navigation .block-superfish ul ul li.menuparent.sfHover { background-color: #328dbc; }
+
+/* Views - Submit buttons */
+.view-promoted-posts .views-field-view-node a, input[type="submit"], input[type="reset"], input[type="button"],
+.checkout-buttons .checkout-cancel, .checkout-buttons .checkout-back,
+li.line-item-summary-view-cart a, li.line-item-summary-checkout a { background-color: #328dbc; }
+
+.view-promoted-posts .views-row .views-field-view-node a:hover,
+input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hover,
+.checkout-buttons .checkout-cancel:focus, .checkout-buttons .checkout-back:focus, .checkout-buttons .checkout-cancel:hover, .checkout-buttons .checkout-back:hover,
+li.line-item-summary-view-cart a:hover, li.line-item-summary-checkout a:hover { background-color: #01ADED; }
+
+.view-latest-products .views-field-title { color: #328dbc; }
+
+/* Tables */
+table th { background:#328dbc; border-color: #328dbc; }
+
+/* Node */
+.field-type-taxonomy-term-reference { background-image: url("images/blue/tag.png"); }
+
+.author-title { border-bottom: 1px solid #328dbc; }
+
+#comments h2.title { background-image: url("images/blue/comment-title.png"); }
+
+.poll .bar .foreground { background-color: #328dbc; }
+
+/* Team members */
+.team-member h2 { color: #328dbc; }
+
+.team-member-email a { background-image: url("images/blue/member-email.png"); }
+
+/* Forms */
+label { color: #328dbc; }
+
+input.form-text:focus { border: 1px solid #328dbc; }
+
+/* Footer */
+#footer h2 { color: #328dbc; }
+
+.footer-area a.more { color: #328dbc; }
+
+.footer-area a.more:hover { color: #01ADED; }
+
+#footer ul.menu li a.active, #sidebar ul.menu li a.active { color: #328dbc; }
+
+/* Scroll to top */
+#toTop { background-color: #328dbc }
+
+#toTop:hover { background-color: #01ADED }
+
+/* Flexslider */
+.flex-direction-nav li a.next { background-color: #328dbc; }
+
+.flex-direction-nav li a.prev { background-color: #328dbc; }
+
+.flex-direction-nav li a:hover { background-color: #01ADED; }
+
+.flex-control-nav li a.active { border: 1px solid #328dbc; background: #328dbc; }
+
+.flex-control-nav li a:hover { border: 1px solid #328dbc; }
+
+/* Social-bookmarks */
+ul.social-bookmarks li.facebook a:hover { background-image: url("images/blue/facebook-hover.png"); }
+
+ul.social-bookmarks li.twitter a:hover { background-image: url("images/blue/twitter-hover.png"); }
+
+ul.social-bookmarks li.flickr a:hover { background-image: url("images/blue/flickr-hover.png"); }
+
+ul.social-bookmarks li.youtube a:hover { background-image: url("images/blue/youtube-hover.png"); }
+
+ul.social-bookmarks li.linkedin a:hover { background-image: url("images/blue/linkedin-hover.png"); }
+
+ul.social-bookmarks li.tumblr a:hover { background-image: url("images/blue/tumblr-hover.png"); }
+
+ul.social-bookmarks li.pinterest a:hover { background-image: url("images/blue/pinterest-hover.png"); }
+
+ul.social-bookmarks li.googleplus a:hover { background-image: url("images/blue/googleplus-hover.png"); }
+
+.preload-social-bookmarks .facebook { background-image: url("images/blue/facebook-hover.png"); }
+
+.preload-social-bookmarks .twitter { background-image: url("images/blue/twitter-hover.png"); }
+
+.preload-social-bookmarks .flickr { background-image: url("images/blue/flickr-hover.png"); }
+
+.preload-social-bookmarks .youtube { background-image: url("images/blue/youtube-hover.png"); }
+
+.preload-social-bookmarks .linkedin { background-image: url("images/blue/linkedin-hover.png"); }
+
+.preload-social-bookmarks .tumblr { background-image: url("images/blue/tumblr-hover.png"); }
+
+.preload-social-bookmarks .pinterest { background-image: url("images/blue/pinterest-hover.png"); }
+
+.preload-social-bookmarks .googleplus { background-image: url("images/blue/googleplus-hover.png"); }
+
+/* Drupal Commerce */
+.view-promoted-posts .views-field-commerce-price, .node .field-name-commerce-price { color:#328dbc; }
